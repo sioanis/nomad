@@ -58,7 +58,7 @@ require (
 	github.com/hashicorp/go-discover v0.0.0-20210818145131-c573d69da192
 	github.com/hashicorp/go-envparse v0.0.0-20180119215841-310ca1881b22
 	github.com/hashicorp/go-getter v1.5.11
-	github.com/hashicorp/go-hclog v1.1.0
+	github.com/hashicorp/go-hclog v1.3.1
 	github.com/hashicorp/go-immutable-radix v1.3.0
 	github.com/hashicorp/go-memdb v1.3.2
 	github.com/hashicorp/go-msgpack v1.1.5
@@ -85,7 +85,7 @@ require (
 	github.com/hpcloud/tail v1.0.1-0.20170814160653-37f427138745
 	github.com/kr/pretty v0.3.0
 	github.com/kr/text v0.2.0
-	github.com/mattn/go-colorable v0.1.9
+	github.com/mattn/go-colorable v0.1.12
 	github.com/miekg/dns v1.1.26
 	github.com/mitchellh/cli v1.1.2
 	github.com/mitchellh/colorstring v0.0.0-20150917214807-8631ce90f286
@@ -110,7 +110,7 @@ require (
 	github.com/sean-/seed v0.0.0-20170313163322-e2103e2c3529
 	github.com/shirou/gopsutil/v3 v3.21.12
 	github.com/skratchdot/open-golang v0.0.0-20160302144031-75fb7ed4208c
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.7.2
 	github.com/syndtr/gocapability v0.0.0-20200815063812-42c35b437635
 	github.com/zclconf/go-cty v1.8.0
 	github.com/zclconf/go-cty-yaml v1.0.2
@@ -119,7 +119,7 @@ require (
 	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
 	golang.org/x/net v0.0.0-20211216030914-fe4d6282115f
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/sys v0.0.0-20220114195835-da31bd327af9
+	golang.org/x/sys v0.0.0-20220503163025-988cb79eb6c6
 	golang.org/x/time v0.0.0-20200630173020-3af7569d3a1e
 	google.golang.org/grpc v1.44.0
 	gopkg.in/tomb.v1 v1.0.0-20141024135613-dd632973f1e7
@@ -271,5 +271,5 @@ require (
 	gopkg.in/resty.v1 v1.12.0 // indirect
 	gopkg.in/square/go-jose.v2 v2.5.1 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
-	gopkg.in/yaml.v3 v3.0.0-20200313102051-9f266ea9e77c // indirect
+	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
